@@ -37,8 +37,6 @@ When I'm not coding, you’ll find me:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashantib102&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img
 ---
 
-## 🌟 Fun Fact
-My favorite fruits are mangos🥭 and strawberries 🍓.
 
 
 
