@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=TrebuchetMS+Code&weight=800&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi!+My+name+is+Ashanti🎨🎶👩‍💻.;I+am+a+Digital+Artist.;I+am+a+Pianist.;I+am+a+aspiring+Data+Analyst." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=TrebuchetMS+Code&weight=800&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi!+My+name+is+Ashanti🎨🎶👩‍💻.;I+am+a+Digital+Artist.;I+am+a+Painter.;I+am+a+aspiring+Data+Analyst." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,18 +34,7 @@ When I'm not coding, you’ll find me:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?ashantib102=ashantib102&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-## 🐍 Watch my contributions grow!
-
-<p align="center">
-  <img src="https://github.com/ashantib102/ashantib102/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashantib102&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img
 ---
 
 ## 🌟 Fun Fact
