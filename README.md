@@ -32,14 +32,6 @@ When I'm not coding, you’ll find me:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashantib102&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img
----
-
-
-
-
 <!--
 **ashantib102/ashantib102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
